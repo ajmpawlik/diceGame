@@ -1,6 +1,6 @@
 # diceGame
 
-This is a simple excercise I followed during the Makers training. 
+This is a simple excercise I followed during the Makers PreCourse. 
 
 The instructions were to: 
 
